@@ -1,0 +1,32 @@
+Index: src/PIWordFinder/WordTester.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/PIWordFinder/WordTester.java b/src/PIWordFinder/WordTester.java
+new file mode 100644
+--- /dev/null	(date 1663171233144)
++++ b/src/PIWordFinder/WordTester.java	(date 1663171233144)
+@@ -0,0 +1,8 @@
++package PIWordFinder;
++
++public class WordTester {
++
++    public static void main(String[] args) {
++
++    }
++}
+Index: src/PIWordFinder/WordGenerator.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/PIWordFinder/WordGenerator.java b/src/PIWordFinder/WordGenerator.java
+new file mode 100644
+--- /dev/null	(date 1663167085595)
++++ b/src/PIWordFinder/WordGenerator.java	(date 1663167085595)
+@@ -0,0 +1,4 @@
++package PIWordFinder;
++
++public class WordGenerator {
++}
